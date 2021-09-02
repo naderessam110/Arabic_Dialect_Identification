@@ -2,7 +2,7 @@
 
 This is a repository of Arabic Dialect Identification Bert Based Model
 
-# About Arabic Dialect Identification Model
+# About
 we introduced an enhanced method for Arabic language dialect identification. We investigated simple techniques such as logistic regression and recent advanced deep-
 learning based classifiers. We achieved best performance using our finetuned BERT based model that provided 85.8% accuracy on 4 Classes (MSA, Egy, Glf and Lev) and 90.4% accuracy on 3 Classes (Egy, GLF And Lev). The model can be found on the following [link](https://drive.google.com/file/d/165CtKwqDvHBYGvRUU_NBY2cbKBsqeev2/view?usp=sharing)
 
