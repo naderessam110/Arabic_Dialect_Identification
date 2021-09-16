@@ -21,3 +21,4 @@ Our other Experiments including their inference scripts can also be downloaded f
 * numpy
 * tensorflow
 * gensim
+* pickle
