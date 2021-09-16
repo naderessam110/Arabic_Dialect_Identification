@@ -9,6 +9,9 @@ we introduced an enhanced method for Arabic language dialect identification. We 
 Make sure to download the model file and extract it in the main folder
 after that you can use our inference notebook script to use the model [inference script](https://github.com/naderessam110/Arabic_Dialect_Identification/blob/main/inference.ipynb)
 
+# Other Experiments
+Our other Experiments including their inference scripts can also be downloaded from the following links [3 classes models](https://drive.google.com/drive/folders/1EaSZiyLKfDCRd3fnPCtRAktMfzt-gWHI?usp=sharing) and [4 classes models](https://drive.google.com/drive/folders/1woSvSKYIYOzaU0nrHGcK-V0VPSsJayVs?usp=sharing)
+
 # Requirements
 * pandas
 * nltk
@@ -17,3 +20,4 @@ after that you can use our inference notebook script to use the model [inference
 * tqdm
 * numpy
 * tensorflow
+* gensim
